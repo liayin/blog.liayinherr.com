@@ -7,7 +7,7 @@ permalink: /posts/lit-metrics/
 
 This blog post continuously updates with papers in econometrics. Please let me know if you have any questions. You can get in touch with me by email. My email can be obtained through the "About" section of the blog.
 
-This blog post has been updated on 2-22-2024.
+This blog post has been updated on 9-28-2025.
 
 * TOC
 {:toc}
