@@ -137,6 +137,10 @@ Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroske
     - How to craft a pre-analysis plan.
 
 ### Machine Learning
+- [Chetverikov and Sørensen (2025)](https://doi.org/10.1086/736770): Selecting Penalty Parameters of High Dimensional M-Estimators Using Bootstrapping after Cross Validation
+    - New method for selecting penalty parameters for lasso regressions
+    - Verified using policing ratial bias data
+
 - [Montiel Olea, Ke, and Nesbit (2021)](http://www.joseluismontielolea.com/papers.html): Robust Machine Learning Algorithms for Text Analysis
     - Standard text analysis methods have flat regions
     - Use Bayesian methods to remove the problem
