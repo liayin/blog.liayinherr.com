@@ -7,7 +7,7 @@ permalink: /posts/lit-metrics/
 
 This blog post continuously updates with papers in econometrics. Please let me know if you have any questions. You can get in touch with me by email. My email can be obtained through the "About" section of the blog.
 
-This blog post has been updated on 9-28-2025.
+This blog post has been updated on 6-16-2026.
 
 * TOC
 {:toc}
@@ -166,6 +166,8 @@ Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroske
 
 
 ### Short-term vs long-term estimation
+[Qiu, et al (2026)](https://arxiv.org/pdf/2606.11526): What is the Long-Term Value of Reliability?
+
 [Imbens, Kallus, Mao & Wang (2022)](https://arxiv.org/pdf/2202.07234.pdf): Long-term Causal Inference Under Persistent Confounding via
 Data Combination
 
