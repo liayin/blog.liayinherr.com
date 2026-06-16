@@ -145,6 +145,11 @@ Solvsten (2021): Estimation and Inference in a Peer Effects Model with Heteroske
     - Standard text analysis methods have flat regions
     - Use Bayesian methods to remove the problem
 
+#### Causal Random Forest
+- [Sverdrup, et al (2026)](https://cloud.r-project.org/web/packages/grf/vignettes/grf_guide.pdf): An introduction to grf
+    - Gives technical background for the R package that handles causal random forest
+    - Gives two examples
+
 
 ### Partial Identification
 [Manski (2022)](https://faculty.wcas.northwestern.edu/~cfm754/identification_statistical_decision_theory.pdf): IDENTIFICATION AND STATISTICAL DECISION THEORY
